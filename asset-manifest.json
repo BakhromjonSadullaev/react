@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BakhromjonSadullaev/react/static/css/main.b8793f8c.chunk.css",
+    "main.js": "/BakhromjonSadullaev/react/static/js/main.5c0c1bdc.chunk.js",
+    "main.js.map": "/BakhromjonSadullaev/react/static/js/main.5c0c1bdc.chunk.js.map",
+    "runtime-main.js": "/BakhromjonSadullaev/react/static/js/runtime-main.94da62cb.js",
+    "runtime-main.js.map": "/BakhromjonSadullaev/react/static/js/runtime-main.94da62cb.js.map",
+    "static/js/2.b01319ae.chunk.js": "/BakhromjonSadullaev/react/static/js/2.b01319ae.chunk.js",
+    "static/js/2.b01319ae.chunk.js.map": "/BakhromjonSadullaev/react/static/js/2.b01319ae.chunk.js.map",
+    "index.html": "/BakhromjonSadullaev/react/index.html",
+    "precache-manifest.27c5f47ecf0bef199261d16bf5094f09.js": "/BakhromjonSadullaev/react/precache-manifest.27c5f47ecf0bef199261d16bf5094f09.js",
+    "service-worker.js": "/BakhromjonSadullaev/react/service-worker.js",
+    "static/css/main.b8793f8c.chunk.css.map": "/BakhromjonSadullaev/react/static/css/main.b8793f8c.chunk.css.map",
+    "static/js/2.b01319ae.chunk.js.LICENSE.txt": "/BakhromjonSadullaev/react/static/js/2.b01319ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94da62cb.js",
+    "static/js/2.b01319ae.chunk.js",
+    "static/css/main.b8793f8c.chunk.css",
+    "static/js/main.5c0c1bdc.chunk.js"
+  ]
+}
